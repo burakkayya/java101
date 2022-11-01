@@ -1,2 +1,2 @@
 # java101
-with Patika.dev
+with [patika.dev](https://www.patika.dev/).
