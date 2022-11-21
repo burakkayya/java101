@@ -15,7 +15,7 @@ public class Main {
         }
 
         System.out.println();
-        64
+        
         System.out.print("Five exponents until "+number+" : ");
         for (int i=1; i<=number; i*=5){
             System.out.print(i + "   ");
